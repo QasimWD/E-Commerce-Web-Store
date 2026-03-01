@@ -1,4 +1,4 @@
-🌟 ClassyCorner - Your Modern E-commerce Store
+🌟 ClassyCorner - A Modern E-commerce Store
 Welcome to ClassyCorner — a fully functional and responsive e-commerce web store built using a modern tech stack. This project showcases essential online shopping features using Angular, Bootstrap, and Firebase, making it ideal for real-world applications and learning purposes.
 
 ✨ Key Features
